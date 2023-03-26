@@ -1,4 +1,11 @@
-                                                             Hello ✋ I am Sohail Ahmad
+                                                             <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />  I'm Sohail Ahmad   </h1>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+	  <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Flutter+Developer;UX/UI+Enthusiast;Open+Source+Lover%20&center=true&width=500&height=50"></a>
+</p>
 # 💫 About Me:
 😄 Pronouns: He/His<br>🌱 I’m currently learning more about Provide State Management in flutter.<br>💬 Ask me about Flutter or any tech-related stuff.<br>🌐How to reach me: Check the social links below.
 
