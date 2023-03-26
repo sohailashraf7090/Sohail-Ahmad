@@ -22,13 +22,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=sohailashraf7090&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohailashraf7090&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailashraf7090&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aaun18110&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 ---
 
 ### Show some ❤ by starring some of the repositories!
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
