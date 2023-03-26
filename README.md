@@ -25,6 +25,10 @@
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### Show some ❤ by starring some of the repositories!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aaun18110&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+---
+
+### Show some ❤ by starring some of the repositories!
 
 
