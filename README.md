@@ -25,5 +25,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Show some ❤ by starring some of the repositories!
 
 
