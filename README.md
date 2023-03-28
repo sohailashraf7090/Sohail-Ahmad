@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 	  <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Flutter+Developer;UX/UI+Enthusiast;Open+Source+Lover%20&center=true&width=500&height=50"></a>
 </p>
-# 💫 About Me:
+💫 About Me:
 😄 Pronouns: He/His<br>🌱 I’m currently learning more about Provide State Management in flutter.<br>💬 Ask me about Flutter or any tech-related stuff.<br>🌐How to reach me: Check the social links below.
 
 
